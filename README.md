@@ -1,6 +1,7 @@
 # Data-Science-Project-1
 
-Data Science Project 1 - Optimizing Superstore Sales Strategies using PostgreSQL and Google Data Studio
+Data Science Project 1 - Optimizing Superstore Sales Strategies using PostgreSQL and Google Data Studio.
+
 I recently completed a project optimizing Superstore sales strategies through data analysis and visualization. I conducted a comprehensive performance analysis of historical sales data and customer behavior.
 
 🔍 Key Highlights:
